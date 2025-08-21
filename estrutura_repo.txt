@@ -1,0 +1,66 @@
+Listagem de caminhos de pasta para o volume OS
+O número de série do volume é 103C-E9D8
+C:.
+|   .gitignore
+|   Endpoint-Performance.png
+|   environment.yml
+|   estrutura_repo.txt
+|   monitoring_demo.html
+|   monitoring_demo.ipynb
+|   README.md
+|   
++---challenge-data-scientist
+|   |   .gitignore
+|   |   README.md
+|   |   Untitled.ipynb
+|   |   Untitled1.ipynb
+|   |   
+|   +---.github
+|   |   |   pull_request_template.md
+|   |   |   
+|   |   \---workflows
+|   |           check_fast_forward.yml
+|   |           
+|   +---.ipynb_checkpoints
+|   |       Untitled-checkpoint.ipynb
+|   |       Untitled1-checkpoint.ipynb
+|   |       
+|   +---credit
+|   |       README.md
+|   |       
+|   +---datasets
+|   |   |   base_antifraude.gz
+|   |   |   
+|   |   \---credit_01
+|   |           oot.gz
+|   |           test.gz
+|   |           train.gz
+|   |           
+|   \---health
+|           README.md
+|           
+\---monitoring
+    |   batch_records.json
+    |   model.pkl
+    |   monitoring_demo.ipynb
+    |   README.md
+    |   requirements.txt
+    |   
+    +---.ipynb_checkpoints
+    |       monitoring_demo-checkpoint.ipynb
+    |       
+    +---app
+    |   |   main.py
+    |   |   requirements.txt
+    |   |   __init__.py
+    |   |   
+    |   \---api
+    |       |   routers.py
+    |       |   __init__.py
+    |       |   
+    |       \---endpoints
+    |               aderencia.py
+    |               performance.py
+    |               __init__.py
+    |               
+    \---datasets
